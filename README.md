@@ -6,4 +6,4 @@ Fndroid/clash_for_windows_pkg/releases 最后备份文件，文件未进行任�
 
 [v0.20.39 releases](https://github.com/clashbk/clash_for_windows/releases/tag/0.20.39)
 
-此处只上传了windows版本，获取其他版本：：https://clashforwindows100.com/clash-for-windows-download/
+此处只上传了windows版本，获取其他版本：https://clashforwindows100.com/clash-for-windows-download/
