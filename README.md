@@ -8,5 +8,5 @@ Fndroid/clash_for_windows_pkg/releases 最后备份文件，文件未进行任�
 [v0.20.39 releases](https://github.com/clashbk/clash_for_windows/releases/tag/0.20.39)
 
 机场推荐：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】
-免费观看netflix、disney+、primevideo、hbomax 
+免费观看netflix、disney+、primevideo、hbomax，
 九折优惠码：LxwSsaay
